@@ -1,0 +1,9 @@
+Conceptos.
+Repositorio:Espacio de almacenamiento en la nube donde se guardan los archivos de tu 
+proyecto, el código fuente y el historial completo de todos los cambios realizados.
+
+Commit:Guarda de forma permanente los cambios realizados en los archivos y registra quién los 
+hizo, cuándo y por qué, creando un historial exacto de la evolución del código.
+
+Push:Comando para subir los cambios que se han guardado en la computadora local hacia un 
+repositorio remoto en la nube.

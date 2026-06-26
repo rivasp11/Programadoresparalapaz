@@ -1,0 +1,8 @@
+Pruebas
+Operación realizada con exito.
+Aparece el siguiente mensaje o respuesta:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

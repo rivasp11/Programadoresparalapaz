@@ -1,0 +1,5 @@
+Ejemplo:
+{
+  "tipo": "Recolección de basura",
+  "descripcion": "La comunidad reporta que no se ha recogido la basura desde hace varios días."
+}

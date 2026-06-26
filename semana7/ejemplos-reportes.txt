@@ -1,0 +1,12 @@
+Ejemplos.
+Ejemplo 1:
+{
+  "tipo": "Energía",
+  "descripcion": "Apagón en varios sectores de la ciudad"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Transporte",
+  "descripcion": "Rutas de transporte insuficientes"
+}

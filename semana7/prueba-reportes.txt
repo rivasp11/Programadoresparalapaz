@@ -1,0 +1,13 @@
+Primer reporte: POST
+Exitoso. Respuesta esperada.
+{"mensaje":"Reporte registrado","reporte":{"id":2,"tipo":"Educación","descripcion":"Pocos docentes contratados"}}
+
+Segundo reporte: GET
+Exitoso. Respuesta esperada.
+[
+  {
+    "id": 1,
+    "tipo": "Hacienda",
+    "descripcion": "Presupesto insuficiente"
+  }
+]

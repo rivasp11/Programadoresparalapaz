@@ -1,0 +1,3 @@
+Ruta 1: Indica que el servidor está activo.
+Ruta 2: Muestra el saludo "Hola comunidad"
+Ruta 3: Muestra el mensaje "Hola Juan"

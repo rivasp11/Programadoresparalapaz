@@ -1,0 +1,10 @@
+Nueva ruta:
+¿Qué hace esta ruta?
+¿Para qué podría servir en una aplicación comunitaria?
+Respuesta:
+Esta ruta hace que se pueda recibir y almacenar información enviada por los usuarios en un 
+sistema. Su función principal es crear un nuevo reporte con los datos proporcionados, como una
+descripción, ubicación o tipo de incidente. En una aplicación comunitaria, podría servir para
+que los ciudadanos reporten problemas como daños en vías, fallas en servicios públicos, 
+situaciones de riesgo o necesidades de la comunidad, facilitando la organización, el 
+seguimiento y la atención de estos casos por parte de las autoridades o líderes comunitarios.

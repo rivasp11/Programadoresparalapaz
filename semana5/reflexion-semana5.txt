@@ -1,0 +1,13 @@
+# Reflexión
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas
+ de manera organizada?
+Las APIs pueden ayudar a las comunidades a compartir información, reportes o alertas de manera
+organizada porque permiten que diferentes aplicaciones y plataformas intercambien datos de 
+forma automática y segura, gracias a ellas la información puede actualizarse en tiempo real y
+llegar rápidamente a las personas que la necesitan, por ejemplo, una comunidad podría reportar
+incidentes, problemas de servicios públicos o situaciones de emergencia desde una aplicación
+móvil y compartir esos datos con otras plataformas, esto facilita el seguimiento de los 
+reportes y mejora la coordinación entre ciudadanos y organizaciones, las APIs reducen la 
+duplicación de información y permiten mantener registros ordenados y accesibles, decisiones 
+de esta manera, contribuyen a una comunicación más eficiente y a una mejor toma de decisiones
+ dentro de la comunidad.

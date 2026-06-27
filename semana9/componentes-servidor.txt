@@ -1,0 +1,19 @@
+Componentes.
+
+Sistema operativo:es el software que administra los recursos del computador, como la memoria, 
+el procesador y los archivos, permite ejecutar programas y facilita la comunicación 
+entre el hardware y las aplicaciones.
+
+Node.js:es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador, 
+se utiliza para crear aplicaciones y servidores rápidos y eficientes.
+
+Aplicación server.js:es el archivo principal que contiene el código del servidor desarrollado 
+en Node.js, su función es iniciar la aplicación y gestionar las solicitudes de los usuarios.
+
+Puerto:es un número que identifica el punto de comunicación por donde una aplicación recibe o 
+envía información. Permite que el sistema dirija correctamente las conexiones al servicio 
+correspondiente.
+
+Logs:son registros que almacenan información sobre el funcionamiento de la aplicación y los 
+eventos que ocurren. Ayudan a detectar errores, monitorear el sistema y realizar tareas de 
+mantenimiento.

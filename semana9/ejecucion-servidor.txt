@@ -1,0 +1,11 @@
+
+1.¿Qué ocurre cuando ejecutas node server.js?
+Cuando se ejecuta node server.js se interpreta el archivo y lo ejecuta como código de 
+servidor usando google para comprobar que el servidor este activo en la web.
+
+2. ¿Qué mensaje aparece en la terminal?
+Servidor ejecutándose en puerto 3000
+
+3. ¿Qué sucede cuando visitas la ruta /estado?
+http://localhost:3000 : Servidor activo y funcionando
+http://localhost:3000/estado: {"estado":"Servidor funcionando","servicio":"API comunitaria"}
